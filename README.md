@@ -27,6 +27,7 @@ GMerch is a mobile-first, pastel-themed static pet merch website built with vani
 - Blog article modal
 - Responsive layout with accessible labels and keyboard-friendly buttons
 - Zero build step and GitHub Pages friendly
+- Mobile-safe homepage fallback when 3D is not ideal for the device
 
 ## Quick start
 
